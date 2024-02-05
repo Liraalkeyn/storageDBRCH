@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "storagedb", "storagedb\storagedb.csproj", "{D720D4AC-1C53-429F-926A-2641BC868C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D720D4AC-1C53-429F-926A-2641BC868C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D720D4AC-1C53-429F-926A-2641BC868C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D720D4AC-1C53-429F-926A-2641BC868C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D720D4AC-1C53-429F-926A-2641BC868C03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
